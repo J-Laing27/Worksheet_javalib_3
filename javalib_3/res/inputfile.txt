@@ -1,0 +1,12 @@
+Ada Lovelace
+From Wikipedia, the free encyclopedia
+
+Augusta Ada King-Noel, Countess of Lovelace (née Byron; 10 December 1815 – 27 November 1852) was an English mathematician and writer, chiefly known for her work on Charles Babbage's early mechanical general-purpose computer, the Analytical Engine.
+
+Her notes on the engine include what is recognised as the first algorithm intended to be carried out by a machine. As a result, she is often regarded as the first computer programmer.
+
+When she was a teenager, her mathematical talents led her to an ongoing working relationship and friendship with fellow British mathematician Charles Babbage, also known as 'the father of computers', and in particular, Babbage's work on the Analytical Engine. Lovelace first met him in June 1833, through their mutual friend, and her private tutor, Mary Somerville. Between 1842 and 1843, Ada translated an article by Italian military engineer Luigi Menabrea on the engine, which she supplemented with an elaborate set of notes, simply called Notes.
+
+These notes contain what many consider to be the first computer program—that is, an algorithm designed to be carried out by a machine.  Lovelace's notes are important in the early history of computers.
+
+She also developed a vision of the capability of computers to go beyond mere calculating or number-crunching, while many others, including Babbage himself, focused only on those capabilities. Her mind-set of "poetical science" led her to ask questions about the Analytical Engine (as shown in her notes) examining how individuals and society relate to technology as a collaborative tool.
